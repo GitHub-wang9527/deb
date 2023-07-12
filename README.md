@@ -11,6 +11,9 @@
 | bcompare-4.4.2.26348_amd64.deb |                       |
 | dde.deb                        | 去除一些依赖的dde包   |
 | Typora_Linux_0.11.18.deb``     | md编辑器              |
+| akregator                      | rss阅读器（之前用的） |
+| Fluent.Reader.1.0.2            | rss阅读器             |
+| Raven Reader-1.0.67            | rss阅读器             |
 
 ## 一些常用包的包名
 
